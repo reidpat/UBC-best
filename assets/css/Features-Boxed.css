@@ -1,0 +1,93 @@
+.features-boxed {
+  color: #313437;
+  /*background-color: #eef4f7;*/
+  padding-top: 50px;
+}
+
+.features-boxed p {
+  color: #7d8285;
+}
+
+.features-boxed h2 {
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .features-boxed h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.features-boxed .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.features-boxed .intro p {
+  margin-bottom: 0;
+}
+
+.features-boxed .features {
+  /*padding: 50px 0;*/
+}
+
+.features-boxed .item {
+  text-align: center;
+}
+
+.features-boxed .item .box {
+  text-align: center;
+  /*padding: 30px;*/
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+
+.features-boxed .item .icon {
+  font-size: 45px;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  background-color: var(--bs-red);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.features-boxed .item .name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  color: inherit;
+}
+
+.features-boxed .item .description {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+#feature-content {
+  display: flex;
+  padding-top: 75px;
+  /*padding: 90px 75px;*/
+  /*min-height: 700px;*/
+  padding-top: 75px;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100vh !important;
+}
+
+#feature-content button {
+  margin-top: 30px;
+}
+
+#about-cards {
+  /*padding: 50px;*/
+}
+

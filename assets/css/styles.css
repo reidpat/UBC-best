@@ -1,0 +1,62 @@
+.fa.fa-star {
+}
+
+.fa.card {
+  font-size: 50px;
+  border-radius: 5px;
+  border: double;
+  /*outline: 1px solid var(--bs-red);*/
+  padding: 15px;
+  margin: 10px;
+  color: white;
+  background-color: var(--bs-red);
+}
+
+.navigation-clean-search {
+  position: fixed;
+  background-color: #f9f9f9;
+}
+
+div.card {
+  margin: 30px;
+  border: 1px solid grey !important;
+}
+
+div.item {
+}
+
+div {
+}
+
+div {
+}
+
+#join {
+  background-color: #192024;
+  width: 100%;
+  color: white;
+  padding: 30px;
+}
+
+div.col-md-6 {
+  background-color: rgba(255,255,255,0);
+}
+
+div.row {
+  background-color: rgba(255,255,255,0);
+}
+
+.action-button-secondary {
+  color: var(--bs-red);
+}
+
+.action-button-secondary {
+  color: var(--bs-red) !important;
+  background-color: rgba(255,255,255,0);
+  border: 1px solid var(--bs-red);
+}
+
+.action-button-primary {
+  border-color: var(--bs-red) !important;
+}
+
